@@ -1,2 +1,4 @@
-
-/* Your CSS Code here. */
+.heading{
+    display: grid;
+    align-items: center;
+}
